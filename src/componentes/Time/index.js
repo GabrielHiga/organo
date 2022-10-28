@@ -16,4 +16,5 @@ const Time = ({ time, colaboradores, aoDeletar, mudarCor }) => {
     )
 }
 
+
 export default Time
